@@ -1,0 +1,19 @@
+{
+  "name": "dennissponer.github.io",
+  "version": "1.0.0",
+  "description": "Dennis Sponer's Github Repository <img src = \"DMS newsletter pic copy really really small copy.jpg\" width='300' />",
+  "main": "DMSmain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhambleton123/dennissponer.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhambleton123/dennissponer.github.io/issues"
+  },
+  "homepage": "https://github.com/bhambleton123/dennissponer.github.io#readme"
+}
